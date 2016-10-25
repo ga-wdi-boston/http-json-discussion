@@ -14,7 +14,7 @@ What is JSON? What is HTTP? Let's have a class discussion to figure it out.
 By the end of this, developers should be able to:
 
 -   Write and discuss JSON.
--   Providfe an explanation of HTTP
+-   Provide an explanation of HTTP.
 
 ## Preparation
 
